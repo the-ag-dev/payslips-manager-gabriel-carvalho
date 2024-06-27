@@ -24,6 +24,11 @@ viewing payslips.
 2. Install the required dependencies: `npm install`
 3. Start the application: `npm run dev`
 
+## Running e2e tests locally
+
+1. Start the development server: `npm run dev`
+2. Run the e2e tests: `npx cypress open`
+
 ## Notes
 
 #### Implemented the @capacitor/filesystem plugin to manage files on the device.
