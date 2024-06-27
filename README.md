@@ -16,6 +16,6 @@ viewing payslips.
 
 ## Running the Web application locally
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository: `git clone https://github.com/gabriel-n-carvalho/payslips-manager-gabriel-carvalho`
 2. Install the required dependencies: `npm install`
 3. Start the application: `npm run dev`
