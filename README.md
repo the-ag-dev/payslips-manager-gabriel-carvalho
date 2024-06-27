@@ -1,5 +1,9 @@
 # payslips-manager-gabriel-carvalho
 
+## Preview
+
+https://payslips-manager.web.app/
+
 ## Description
 
 Cross-platform application using React, Capacitor and TypeScript for managing and
