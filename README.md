@@ -1,6 +1,6 @@
 # payslips-manager-gabriel-carvalho
 
-## Preview
+## Online preview
 
 https://payslips-manager.web.app/
 
@@ -23,3 +23,13 @@ viewing payslips.
 1. Clone the repository: `git clone https://github.com/gabriel-n-carvalho/payslips-manager-gabriel-carvalho`
 2. Install the required dependencies: `npm install`
 3. Start the application: `npm run dev`
+
+## Notes
+
+#### Implemented the @capacitor/filesystem plugin to manage files on the device.
+
+- ![alt text](https://firebasestorage.googleapis.com/v0/b/payslips-manager.appspot.com/o/app-views.png?alt=media&token=332953b2-6c58-424a-a452-ecc9f09f91ae)
+
+#### Integrated the Redux Toolkit to manage the application's state. Although it may not be essential for a small project, I believe it's a good practice, especially for projects that may expand in the future. Also, I really like using the Redux DevTools Extension, as it simplifies maintaining larger projects.
+
+- ![alt text](https://firebasestorage.googleapis.com/v0/b/payslips-manager.appspot.com/o/redux-toolkit.png?alt=media&token=934fb4d8-a52e-4155-86a1-39f9e263aa15)
