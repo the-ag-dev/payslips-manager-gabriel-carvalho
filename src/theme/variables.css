@@ -1,0 +1,7 @@
+:root {
+  ion-split-pane {
+    --side-max-width: 250px;
+    --side-min-width: 250px;
+    --side-width: 250px;
+  }
+}

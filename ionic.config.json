@@ -1,0 +1,8 @@
+{
+  "name": "payslips-manager-gabriel-carvalho",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "e59464c0"
+}
